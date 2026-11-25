@@ -1,0 +1,3 @@
+Circle "red" 5 4 6
+Square "green" 5 3 6
+Triangle "black" 5 5 2 2 2 5

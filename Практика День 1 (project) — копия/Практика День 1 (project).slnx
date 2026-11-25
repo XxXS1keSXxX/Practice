@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Практика День 1 (project)/Практика День 1 (project).vcxproj" />
+</Solution>
