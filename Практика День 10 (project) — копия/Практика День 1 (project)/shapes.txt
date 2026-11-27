@@ -1,0 +1,2 @@
+Line "red" 2 5 10 5
+Circle "black" 5 5 4
